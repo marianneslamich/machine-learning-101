@@ -1,0 +1,5 @@
+a=12
+if a>=2 and a<=8:
+    print("a est dans l'intervalle")
+else:
+    print("a n'est pas dans l'intervalle")
